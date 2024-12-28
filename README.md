@@ -46,10 +46,3 @@ To analyze employee data, understand attrition patterns, and build predictive mo
 ## Key Takeaways
 
 This project showcases skills in data analysis, predictive modeling, and actionable insight generation. By identifying patterns in employee attrition, the analysis can help organizations improve retention strategies effectively.
-"""
-
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as f:
-    f.write(readme_content)
-
-file_path
